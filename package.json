@@ -15,7 +15,7 @@
     "semantic-ui-react": "^2.1.3",
     "web-vitals": "^2.1.4"
   },
-  "homepage":"https://github.com/OscarSubero/Github-Api",
+  "homepage": "https://oscarsubero.github.io/Github-Api",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
